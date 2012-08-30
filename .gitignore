@@ -1,0 +1,13 @@
+*py[cod]
+
+# C extensions
+*.so
+
+# Virtual-env stuff
+bin/
+build/
+lib/
+include/
+
+# Installer logs
+pip-log.txt
