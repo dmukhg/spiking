@@ -11,3 +11,6 @@ include/
 
 # Installer logs
 pip-log.txt
+
+# man pages
+man/
